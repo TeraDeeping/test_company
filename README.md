@@ -11,6 +11,3 @@ c'est 3 tests, et vous avez la liberte d'utiliser n'importe quelle technologie
 
 3. Developper un site E-Commerce simple utilisant le CRUD (team). 
 
-## Game engineer:
-
-Vous avez une 2 semaines (12 avril), pour presenter a la team entiere un jeu dont vous avez developper ensemble. 
