@@ -9,4 +9,5 @@ C'est des test de connaissance en web avec le HTML/CSS et JS
 
 3. Faire une calculatrice (encore) avec le framework react js 
 
-### Apres chaque test vous devez push le dossier contenant l'ensemble des tests que vous avez realiser ici: [test_skills](https://github.com/TeraTra/test_skill.git). l'un des membres du groupe github va evaluer votre travail.
+### Apres chaque test vous devez push le dossier contenant l'ensemble des tests que vous avez realiser ici: [test_skills](https://github.com/TeraTra/test_skill.git). 
+L'un des membres du groupe github va evaluer votre travail.
