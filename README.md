@@ -1,6 +1,4 @@
-# test_company
-
-## Software engineer:
+# test_skills
 
 C'est des test de connaissance en web avec le HTML/CSS et JS
 
